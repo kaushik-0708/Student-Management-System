@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Kaushik",
+        "roll": 101,
+        "marks": 15.0
+    },
+    {
+        "name": "ram",
+        "roll": 102,
+        "marks": 10.0
+    },
+    {
+        "name": "jay",
+        "roll": 103,
+        "marks": 14.0
+    },
+    {
+        "name": "vedant",
+        "roll": 104,
+        "marks": 18.0
+    },
+    {
+        "name": "riya",
+        "roll": 107,
+        "marks": 17.0
+    },
+    {
+        "name": "shruti",
+        "roll": 106,
+        "marks": 14.0
+    },
+    {
+        "name": "diya",
+        "roll": 109,
+        "marks": 16.0
+    },
+    {
+        "name": "dip",
+        "roll": 110,
+        "marks": 18.0
+    },
+    {
+        "name": "varun",
+        "roll": 111,
+        "marks": 8.0
+    }
+]
